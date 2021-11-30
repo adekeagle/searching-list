@@ -6,8 +6,8 @@
 
 ## Task description
 ```
-<strong>Stworzyć listę 10 elementową, a następnie wypełnić ją danymi wczytanymi z klawiatury (liczby lub napisy).
-Następnie, proszę przeszukać tę listę i wypisać na ekranie wszystkie numery wystąpień (indeksy listy).</strong>
+Stworzyć listę 10 elementową, a następnie wypełnić ją danymi wczytanymi z klawiatury (liczby lub napisy).
+Następnie, proszę przeszukać tę listę i wypisać na ekranie wszystkie numery wystąpień (indeksy listy).
 ```
 
 ## Prerequirements
