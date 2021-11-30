@@ -1,7 +1,9 @@
 # Python 3
 ====================
 
-.. image:: https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png
+<p align="center">
+    <img width="200" height="200" src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png" alt="Python logo">
+</p>
 
 ## Task description
 ```
