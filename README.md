@@ -1,4 +1,4 @@
-#
+# Python 3
 ## Task description
 ```
 Stworzyć listę 10 elementową, a następnie wypełnić ją danymi wczytanymi z klawiatury (liczby lub napisy).
@@ -11,13 +11,14 @@ python ver 3
 
 ```
 
-Install python on:
-- Ubuntu
-sudo apt-get install python3
-- Centos
-sudo yum install python3
-or
-sudo dnf install python3
+### Install python on:
+
++ Ubuntu
+  + sudo apt-get install python3
++ Centos
+  + sudo yum install python3
+  or
+  + sudo dnf install python3
 
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit)
