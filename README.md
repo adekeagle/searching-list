@@ -9,6 +9,8 @@ Następnie, proszę przeszukać tę listę i wypisać na ekranie wszystkie numer
 ```
 python ver 3
 
+```
+
 Install python on:
 - Ubuntu
 sudo apt-get install python3
@@ -16,8 +18,6 @@ sudo apt-get install python3
 sudo yum install python3
 or
 sudo dnf install python3
-
-```
 
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit)
